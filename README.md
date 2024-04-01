@@ -1,6 +1,6 @@
-# Tugas-3-RecyclerView-Intent---Prak-TPM
+# Tugas-3-RecyclerView-Intent-MP3
 # RECYCLER VIEW & INTENT
-Nama : Willian Kelvin Nata
-\nNIM : 123180004
-Praktikum Teknologi Pemrograman Mobile - Plug B
-link youtube : https://youtu.be/oeSBYxLD2W8
+Nama :Iven Lagowan
+NIM : 21421011
+asil :
+<img width="136" alt="image" src="https://github.com/IvenLagowan/tugas-pm3/assets/94290469/1612a661-e365-4400-9cb6-2c872d54118c">
